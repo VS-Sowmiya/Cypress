@@ -1,0 +1,95 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "End to end testing",
+    "line": 2,
+    "id": "end-to-end-testing",
+    "tags": [
+      {
+        "name": "@regressionLogout",
+        "line": 1
+      }
+    ],
+    "uri": "Logout.feature",
+    "elements": [
+      {
+        "id": "end-to-end-testing;login-and-logout",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Login and Logout",
+        "tags": [
+          {
+            "name": "@regressionLogout",
+            "line": 1
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "I open url",
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 7,
+            "name": "I select to Login",
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 8,
+            "name": "I enter LoginemailId",
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 9,
+            "name": "I enter password",
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 10,
+            "name": "I click on LoginButton",
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "I should be logged In successfully",
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 12,
+            "name": "I logout",
+            "result": {
+              "status": "skipped"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
